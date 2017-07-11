@@ -122,7 +122,7 @@
               "linkInNewWindow": false,
               "name": "music",
               "family": "MobiriseIcons",
-              "link": "",
+              "link": "index.html",
               "size": 0,
               "active": true,
               "newWindow": false
