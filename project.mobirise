@@ -6,12 +6,12 @@
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#d14841",
-        "secondaryColor": "#eb6b56",
-        "successColor": "#eb6b56",
-        "infoColor": "#eb6b56",
-        "warningColor": "#eb6b56",
-        "dangerColor": "#eb6b56",
+        "primaryColor": "#f28281",
+        "secondaryColor": "#f28281",
+        "successColor": "#f28281",
+        "infoColor": "#f28281",
+        "warningColor": "#f28281",
+        "dangerColor": "#f28281",
         "titleFont": "Titillium Web",
         "subtitleFont": "Lora",
         "textFont": "Roboto",
@@ -122,9 +122,10 @@
               "linkInNewWindow": false,
               "name": "music",
               "family": "MobiriseIcons",
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "active": true
+              "active": true,
+              "newWindow": false
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Hits and Games</a>",
